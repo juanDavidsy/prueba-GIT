@@ -2,3 +2,5 @@
 DIM
 flint 
 Anakin Skywalker
+REd
+Fred
